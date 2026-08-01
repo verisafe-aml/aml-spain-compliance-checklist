@@ -1,4 +1,4 @@
-# AMLR Art. 22(7) — Discrepancias en el registro UBO
+# AMLR Art. 24 — Discrepancias en el registro UBO
 
 ## Resumen
 
@@ -6,7 +6,7 @@ Cuando los sujetos obligados detectan discrepancias entre la información de tit
 
 ## Texto del artículo
 
-[EUR-Lex — AMLR Art. 22(7)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Directamente aplicable desde julio 2027.
+[EUR-Lex — AMLR Art. 24](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Directamente aplicable desde julio 2027.
 
 ## Cómo evidenciarlo
 

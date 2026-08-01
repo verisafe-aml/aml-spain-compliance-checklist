@@ -1,12 +1,12 @@
-# AMLR Art. 35 — Medidas de diligencia debida reforzada (EDD)
+# AMLR Art. 34 — Medidas de diligencia debida reforzada (EDD)
 
 ## Resumen
 
-Cuando el riesgo es alto (PEP, jurisdicción de alto riesgo, operación inusual, sector de alto riesgo, etc.), el sujeto obligado debe aplicar **medidas reforzadas** además de la diligencia normal. El Art. 35 AMLR define **7 medidas predefinidas** que deben registrarse explícitamente.
+Cuando el riesgo es alto (PEP, jurisdicción de alto riesgo, operación inusual, sector de alto riesgo, etc.), el sujeto obligado debe aplicar **medidas reforzadas** además de la diligencia normal. El Art. 34 AMLR define **7 medidas predefinidas** que deben registrarse explícitamente.
 
 ## Texto del artículo
 
-[EUR-Lex — AMLR Art. 35](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Las 7 medidas (resumen):
+[EUR-Lex — AMLR Art. 34](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Las 7 medidas (resumen):
 
 1. **Información adicional sobre el cliente** — actividad económica detallada, propósito específico de la operación, fuentes de riqueza más allá de las declaradas en CDD.
 2. **Información adicional sobre el titular real** — verificación cruzada con registros oficiales, evidencia de la cadena societaria.
@@ -18,7 +18,7 @@ Cuando el riesgo es alto (PEP, jurisdicción de alto riesgo, operación inusual,
 
 ## Cuándo aplicar EDD
 
-- Cliente o titular real es PEP (incluyendo cooling-off de 12 meses tras el cese — Art. 39(3)).
+- Cliente o titular real es PEP (incluyendo cooling-off de 12 meses tras el cese — Art. 45(2)).
 - Operación con persona o jurisdicción de alto riesgo (FATF lista negra/gris, paraíso fiscal).
 - Cliente con perfil de riesgo "alto" o "muy alto" según tu calculadora.
 - Operación compleja o inusual sin propósito económico aparente.
@@ -46,5 +46,5 @@ Las 7 medidas EDD predefinidas registrables en cada revisión KYC + monitorizaci
 ## Ver también
 
 - [Ley 10/2010 Art. 7 CDD](../ley-10-2010/art-7-cdd.md)
-- [AMLR Art. 39(3) PEP cooling-off](./art-39-3-pep-cooling-off.md)
+- [AMLR Art. 45(2) PEP cooling-off](./art-45-2-pep-cooling-off.md)
 - [AMLR Art. 11 Compliance Officer](./art-11-compliance-officer.md) (pendiente)

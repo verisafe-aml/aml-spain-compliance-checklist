@@ -37,4 +37,4 @@ Soporte completo de cardinalidad-N + screening por variante + scoring multi-naci
 ## Ver también
 
 - [Ley 10/2010 Art. 7 CDD](../ley-10-2010/art-7-cdd.md)
-- [AMLR Art. 35 EDD](./art-35-edd.md)
+- [AMLR Art. 34 EDD](./art-34-edd.md)

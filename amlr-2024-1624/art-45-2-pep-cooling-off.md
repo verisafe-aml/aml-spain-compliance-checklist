@@ -1,4 +1,4 @@
-# AMLR Art. 39(3) — Período de enfriamiento PEP (12 meses)
+# AMLR Art. 45(2) — Período de enfriamiento PEP (12 meses)
 
 ## Resumen
 
@@ -6,7 +6,7 @@ Cuando una **Persona Políticamente Expuesta (PEP) cesa en el cargo**, las medid
 
 ## Texto del artículo
 
-[EUR-Lex — AMLR Art. 39(3)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Cambio respecto al régimen anterior, donde algunas interpretaciones permitían retirar la condición PEP el día siguiente al cese.
+[EUR-Lex — AMLR Art. 45(2)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32024R1624). Cambio respecto al régimen anterior, donde algunas interpretaciones permitían retirar la condición PEP el día siguiente al cese.
 
 ## Cómo evidenciarlo
 
@@ -27,5 +27,5 @@ Cooling-off automático con factor decremental: [VeriSafe AML](https://www.veris
 
 ## Ver también
 
-- [AMLR Art. 35 EDD](./art-35-edd.md) — qué medidas aplicar mientras dura el cooling-off.
+- [AMLR Art. 34 EDD](./art-34-edd.md) — qué medidas aplicar mientras dura el cooling-off.
 - [Ley 10/2010 Art. 14 — PEPs](https://www.boe.es/buscar/act.php?id=BOE-A-2010-6737#a14)

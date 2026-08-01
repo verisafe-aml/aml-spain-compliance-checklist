@@ -26,16 +26,16 @@ Para cada cliente, conserva:
 ## Antipatrones comunes
 
 - **CDD sólo en el alta, sin revisión periódica** → la obligación es continua. Revisión periódica obligatoria según el nivel de riesgo (típico: 1 año alto, 2 años medio, 3 años bajo).
-- **"PEP = sólo cargos políticos actuales"** → incluye familiares y allegados, y dura 12 meses tras el cese del cargo (Art. 39(3) AMLR).
+- **"PEP = sólo cargos políticos actuales"** → incluye familiares y allegados, y dura 12 meses tras el cese del cargo (Art. 45(2) AMLR).
 - **EDD sin documentar el origen de los fondos** → el oficial de cumplimiento debe poder enseñar al SEPBLAC la evidencia, no sólo el campo "yes" en un formulario.
 - **Una sola fuente de identidad cuando hay duda** → si el documento parece manipulado, cruza con segunda fuente (registro mercantil, lista PEP, registros notariales).
 
 ## Tools que automatizan esto
 
-Las herramientas PBC/FT modernas integran KYC + screening + scoring de riesgo + recordatorio de revisión periódica en un único expediente: [VeriSafe AML](https://www.verisafeaml.com) (con KYC biométrico Art. 21 RD 304/2014 + las 7 medidas EDD del Art. 35 AMLR), [Sumsub](https://sumsub.com) (KYC global), [ComplyAdvantage](https://complyadvantage.com) (datos AML + agentic AI).
+Las herramientas PBC/FT modernas integran KYC + screening + scoring de riesgo + recordatorio de revisión periódica en un único expediente: [VeriSafe AML](https://www.verisafeaml.com) (con KYC biométrico Art. 21 RD 304/2014 + las 7 medidas EDD del Art. 34 AMLR), [Sumsub](https://sumsub.com) (KYC global), [ComplyAdvantage](https://complyadvantage.com) (datos AML + agentic AI).
 
 ## Ver también
 
 - [Art. 17 — Examen especial](./art-17-examen-especial.md) — qué hacer cuando algo no cuadra.
 - [AMLR Art. 28(1) RTS DDC](../amlr-2024-1624/art-28-1-rts-ddc.md) — modelo de cardinalidad-N.
-- [AMLR Art. 35 — Medidas EDD](../amlr-2024-1624/art-35-edd.md) — las 7 medidas predefinidas.
+- [AMLR Art. 34 — Medidas EDD](../amlr-2024-1624/art-34-edd.md) — las 7 medidas predefinidas.

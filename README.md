@@ -18,10 +18,10 @@ ley-10-2010/                Ley 10/2010 — articles by number
   ...
 
 amlr-2024-1624/             AMLR (Reg. UE 2024/1624) — articles by number
-  art-22-7-ubo-discrepancias.md
+  art-24-ubo-discrepancias.md
   art-28-1-rts-ddc.md
-  art-35-edd.md
-  art-39-3-pep-cooling-off.md
+  art-34-edd.md
+  art-45-2-pep-cooling-off.md
   art-80-limite-efectivo.md
   ...
 
