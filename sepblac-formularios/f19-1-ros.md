@@ -34,7 +34,7 @@ El F19-1 incluye:
 1. **Comunicación enviada** — guarda recibo de presentación + número de comunicación SEPBLAC.
 2. **Decisión del OCI** — acta o registro interno con la decisión (comunicar / no comunicar) + fecha + miembros del OCI.
 3. **Evidencia narrativa** — todo lo recabado durante el examen especial (Art. 17).
-4. **Conservación 10 años** (Art. 25).
+4. **Conservación durante el plazo legal** (Art. 25).
 
 ## Antipatrones comunes
 

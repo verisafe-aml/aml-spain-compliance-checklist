@@ -24,7 +24,7 @@ Comunicación al SEPBLAC, **semestral**, de que el sujeto obligado **no ha tenid
 ## Cómo evidenciarlo
 
 1. **Acuse del CTL** — recibo de presentación.
-2. **Verificación interna** — lista de operaciones del semestre + razón por la que ninguna es declarable. Esta lista NO se envía al SEPBLAC pero se conserva 10 años.
+2. **Verificación interna** — lista de operaciones del semestre + razón por la que ninguna es declarable. Esta lista NO se envía al SEPBLAC pero se conserva durante el plazo legal.
 3. **Decisión del OCI** — acta o registro de que el OCI ha revisado y confirmado la inexistencia de operaciones declarables.
 
 ## Antipatrones comunes

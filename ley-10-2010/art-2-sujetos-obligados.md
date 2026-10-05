@@ -36,7 +36,7 @@ Si tu actividad encaja en alguna categoría, debes:
 2. **Designar un representante** ante el SEPBLAC (formularios F22 / F22-5 / F22-6).
 3. **Tener un manual PBC/FT** aprobado por el órgano de control interno (OCI).
 4. **Aplicar diligencia debida** a tus clientes (Art. 7).
-5. **Conservar documentación 10 años** (Art. 25).
+5. **Conservar documentación durante el plazo legal** (Art. 25).
 
 ## Antipatrones comunes
 

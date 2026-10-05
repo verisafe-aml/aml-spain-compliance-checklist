@@ -16,7 +16,7 @@ Para cada operación sometida a examen especial:
 2. **Información adicional recabada** — preguntas al cliente, documentos solicitados, consultas externas (registros mercantiles, fuentes abiertas, evaluaciones internas).
 3. **Análisis** — narrativa razonando si los hechos son consistentes con el perfil del cliente o no.
 4. **Decisión** — descartar (con justificación) o escalar a F19-1 (ROS).
-5. **Trazabilidad** — quién decidió, cuándo, sobre qué evidencia. Toda esta cadena se conserva 10 años (Art. 25).
+5. **Trazabilidad** — quién decidió, cuándo, sobre qué evidencia. Toda esta cadena se conserva durante el plazo legal (Art. 25).
 
 ## Antipatrones comunes
 
