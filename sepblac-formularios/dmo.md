@@ -2,23 +2,23 @@
 
 ## Resumen
 
-Comunicación al SEPBLAC de las operaciones realizadas por el sujeto obligado durante el mes que cumplan determinados criterios objetivos (sin necesidad de sospecha): movimientos en efectivo, operaciones con paraísos fiscales, operaciones de envío de dinero superiores a determinados importes, etc. **Mensual**.
+Comunicación al SEPBLAC de las operaciones realizadas por el sujeto obligado durante el mes que cumplan determinados criterios objetivos (sin necesidad de sospecha): los supuestos del art. 27.1 del RD 304/2014. **Mensual**.
 
 ## Cuándo presentarlo
 
-- **Periodicidad**: mensual, dentro de los 15 primeros días del mes siguiente al de las operaciones.
+- **Periodicidad**: mensual, entre los días 1 y 15 (naturales) del mes siguiente al de las operaciones (Instrucción 1/2006 del SEPBLAC).
+- **Fuera de plazo**: hay que remitir al SEPBLAC un escrito justificativo firmado electrónicamente por el representante o su autorizado, por el Registro electrónico de la Oficina Virtual del Banco de España.
 - **Si no hay operaciones declarables**: presenta una **DNS** (Declaración Negativa Semestral) en su lugar.
 
 ## Qué se declara
 
-Las categorías típicas (varían por sector):
+Los supuestos del art. 27.1 del RD 304/2014 (solo para los sujetos de las letras a) a j) y z) del art. 2.1 de la Ley 10/2010, salvo corredores de seguros y EAF):
 
-- **`cash`** — operaciones en efectivo iguales o superiores a €30.000 mensuales por cliente.
-- **`money_transfer`** — envíos de dinero internacional iguales o superiores a €1.500.
-- **`tax_haven`** — operaciones con personas o jurisdicciones consideradas paraísos fiscales (umbrales según operación).
-- **`occasional`** — operaciones ocasionales superiores a €1.000 cuando no hay relación de negocio establecida.
+- **a)** movimiento físico de efectivo de más de 30.000 € sin reflejo en cuenta;
+- **b)** envíos de dinero con movimiento físico de efectivo de más de 1.500 €;
+- **c)** operaciones de más de 30.000 € con residentes en territorios o países designados, o transferencias a o desde ellos. Mientras no haya Orden de designación, la lista es la de la Orden HFP/115/2023 (con la Orden HAC/649/2026) más los ocho países de la Orden ECO/2652/2002 (disposición transitoria segunda del RD 304/2014). La lista de la UE de jurisdicciones no cooperativas no cuenta.
 
-Cada operación lleva un **`<TipoOperacion>`** que mapea a un código SEPBLAC. La plataforma operativa debe asignar el código automáticamente según las reglas de monitorización + la naturaleza de la operación.
+Cada operación lleva un **tipo de operación** (1 a 22, descrito desde el punto de vista del cliente: por ejemplo, 1 emisión de transferencia u orden de pago, 12 compra de billetes extranjeros) y **al menos una característica** (efectivo sin reflejo en cuenta; transferencia a o desde territorios designados; operación con residentes en ellos; operación no ejecutada por documentación insuficiente), con las combinaciones que admite el cuadro de la Instrucción 1/2006 del SEPBLAC.
 
 ## Cómo presentarlo
 
@@ -41,7 +41,7 @@ Cada operación lleva un **`<TipoOperacion>`** que mapea a un código SEPBLAC. L
 
 ## Tools que automatizan esto
 
-Generación nativa DMO XSD 3.0 con asignación automática de tipo de operación desde el rule engine: [VeriSafe AML](https://www.verisafeaml.com) (motor de monitorización con `include_in_dmo` + `dmo_type_code` + arbitraje cuando varias reglas firman). [ApreNet](https://www.aprenet.es) también tiene generación DMO nativa. Para sujetos sin herramienta: plantilla XSD + validador antes del envío.
+Generación nativa DMO XSD 3.0 con asignación automática de tipo de operación desde el rule engine: [VeriSafe AML](https://www.verisafeaml.com) (motor de monitorización con `include_in_dmo` + `dmo_type_code` + arbitraje cuando varias reglas firman). Para sujetos sin herramienta: plantilla XSD + validador antes del envío.
 
 ## Ver también
 

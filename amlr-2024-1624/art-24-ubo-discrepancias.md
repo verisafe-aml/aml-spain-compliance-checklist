@@ -24,7 +24,7 @@ Cuando los sujetos obligados detectan discrepancias entre la información de tit
 
 ## Tools que automatizan esto
 
-Tracking de la comprobación + flag automático cuando la declaración del cliente no coincide con el registro: [VeriSafe AML](https://www.verisafeaml.com) (campos `registry_checked_at` + `registry_discrepancy_notes` en el registro UBO + workflow de comunicación). Para integraciones en tiempo real con eInforma / Axesor / proveedores de datos UBO, herramientas KYB especializadas.
+Tracking de la comprobación + flag automático cuando la declaración del cliente no coincide con el registro: [VeriSafe AML](https://www.verisafeaml.com) (campos `registry_checked_at` + `registry_discrepancy_notes` en el registro UBO + workflow de comunicación). Para integraciones en tiempo real con proveedores de datos registrales y de titularidad real, herramientas KYB especializadas.
 
 ## Ver también
 

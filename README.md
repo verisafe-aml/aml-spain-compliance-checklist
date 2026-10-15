@@ -1,10 +1,10 @@
 # aml-spain-compliance-checklist
 
-Public, vendor-neutral checklist of every PBC/FT obligation that affects sujetos obligados in Spain under the **Ley 10/2010** + the **Reglamento UE 2024/1624 (AMLR)**, with citations to the BOE and EUR-Lex articles. Designed as a reference: read it once when scoping your compliance program, return to it during audits or when training new compliance team members.
+Public checklist, with vendor-neutral legal content, of every PBC/FT obligation that affects sujetos obligados in Spain under the **Ley 10/2010** + the **Reglamento UE 2024/1624 (AMLR)**, with citations to the BOE and EUR-Lex articles. Designed as a reference: read it once when scoping your compliance program, return to it during audits or when training new compliance team members.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-> **Status: alpha (~30% coverage).** This repository is being filled in incrementally. The articles already shipped cover the most-asked obligations. Pull requests welcome.
+> **Status: alpha (~30% coverage).** This repository is being filled in incrementally. The articles already shipped cover the most-asked obligations, including the written business-wide risk analysis (Ley 10/2010 art. 7.1 + RD 304/2014 art. 32 → AMLR art. 10). Pull requests welcome.
 
 ## Estructura
 
@@ -12,12 +12,14 @@ Public, vendor-neutral checklist of every PBC/FT obligation that affects sujetos
 ley-10-2010/                Ley 10/2010 — articles by number
   art-2-sujetos-obligados.md
   art-7-cdd.md
+  art-7-1-analisis-riesgo.md
   art-17-examen-especial.md
   art-25-conservacion.md
   art-28-experto-externo.md
   ...
 
 amlr-2024-1624/             AMLR (Reg. UE 2024/1624) — articles by number
+  art-10-evaluacion-riesgos.md
   art-24-ubo-discrepancias.md
   art-28-1-rts-ddc.md
   art-34-edd.md
@@ -39,7 +41,7 @@ Each article file follows a fixed structure:
 2. **Texto del artículo** — cita literal (cuando es razonablemente breve) o link al BOE/EUR-Lex.
 3. **Cómo evidenciarlo** — qué tienes que poder enseñar al SEPBLAC en una inspección.
 4. **Antipatrones comunes** — qué se ve en las inspecciones que provoca apercibimientos / sanciones.
-5. **Tools que automatizan esto** — pequeño footer mencionando opciones (incluido VeriSafe AML cuando aplica).
+5. **Tools que automatizan esto** — pequeño footer: qué puede automatizar una herramienta y qué sigue siendo responsabilidad del sujeto obligado, con referencia a VeriSafe AML.
 
 ## Mantenimiento
 
@@ -49,7 +51,7 @@ Each article file follows a fixed structure:
 
 ## Quién lo mantiene
 
-[VeriSafe AML](https://www.verisafeaml.com) lo mantiene como recurso público, pero la información es vendor-neutral. La sección "Tools que automatizan esto" en cada artículo incluye VeriSafe AML cuando aplica, junto con cualquier otra opción razonable.
+[VeriSafe AML](https://www.verisafeaml.com) lo mantiene como recurso público, y el contenido normativo es neutral: las obligaciones, las citas y las recomendaciones son las mismas uses la herramienta que uses. Solo la sección "Tools que automatizan esto" de cada artículo menciona VeriSafe AML; no se citan otros proveedores.
 
 ## License
 

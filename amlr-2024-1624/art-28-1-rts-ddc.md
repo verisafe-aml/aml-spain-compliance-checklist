@@ -21,7 +21,7 @@ El modelo tradicional KYC asume "un cliente = un nombre + una nacionalidad + un 
 
 1. **Capacidad de registrar múltiples filas** — tu sistema KYC debe soportar `person_names[]`, `person_nationalities[]`, `person_documents[]`, `person_addresses[]` con un primary syncing al campo escalar legacy.
 2. **Screening por variante** — cada variante de nombre se contrasta contra listas PEP / sanciones por separado; la coincidencia escala el riesgo del cliente al de la variante de mayor severidad.
-3. **Scoring multi-nacionalidad** — cuando el cliente tiene 2+ nacionalidades, la calculadora de riesgo aplica la de mayor factor (FATF black list > FATF gray list > paraíso fiscal > UE).
+3. **Scoring multi-nacionalidad** — cuando el cliente tiene 2+ nacionalidades, la calculadora de riesgo aplica la de mayor factor (FATF black list > FATF gray list > jurisdicción no cooperativa > UE).
 4. **Apátridas / refugiados** — registrar con el código ICAO correspondiente. El SEPBLAC acepta el placeholder en el XML.
 
 ## Antipatrones comunes

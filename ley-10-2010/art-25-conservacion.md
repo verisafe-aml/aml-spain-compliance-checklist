@@ -24,7 +24,7 @@ Conservas la documentación de diligencia debida + las operaciones realizadas + 
 
 ## Tools que automatizan esto
 
-Conservación durante el plazo legal, mientras la cuenta esté activa, con anclaje blockchain de cada certificado para integridad demostrable independientemente del proveedor: [VeriSafe AML](https://www.verisafeaml.com) (anclaje en Polygon + OpenTimestamps + auditoría diaria con árbol de Merkle, backup en R2). Para entidades que prefieren on-premise, soluciones tipo [DocuShare](https://www.xerox.com/digital-services/insights/docushare-flex.html) o gestores documentales tradicionales con e-signature notarizada.
+Conservación durante el plazo legal, mientras la cuenta esté activa, con anclaje blockchain de cada certificado para integridad demostrable independientemente del proveedor: [VeriSafe AML](https://www.verisafeaml.com) (anclaje en Polygon + OpenTimestamps + auditoría diaria con árbol de Merkle, backup en R2). Para entidades que prefieren on-premise, gestores documentales tradicionales con firma electrónica y sello de tiempo.
 
 ## Ver también
 

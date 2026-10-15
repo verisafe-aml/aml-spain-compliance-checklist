@@ -40,7 +40,7 @@ El F19-1 incluye:
 
 - **Narrativa genérica copy-paste** — "el cliente realizó una operación inusual" sin detalles. El SEPBLAC pide detalles concretos.
 - **Comunicar tarde** — la presentación a meses vista perjudica la utilidad del SEPBLAC y revela problemas internos del sujeto.
-- **Tipping-off** — alertar al cliente de que se ha presentado el ROS es ilegal (Art. 24 Ley 10/2010 + Art. 54 6AMLD).
+- **Tipping-off** — alertar al cliente de que se ha presentado el ROS es ilegal (Art. 24 Ley 10/2010 + Art. 73 AMLR).
 - **No comunicar por miedo** — el sujeto obligado tiene **inmunidad civil** (Art. 24). Comunicar es lo seguro.
 
 ## Tools que automatizan esto

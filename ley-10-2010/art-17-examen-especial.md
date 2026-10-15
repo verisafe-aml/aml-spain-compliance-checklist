@@ -23,11 +23,11 @@ Para cada operación sometida a examen especial:
 - **"La operación es grande pero el cliente es VIP, no escalo"** → el examen especial debe ser objetivo. Riesgo del cliente ≠ excusa para no documentar.
 - **Decisión de "no escalar" sin narrativa** → si más adelante hay inspección y el SEPBLAC ve que descartaste sospechas legítimas sin justificación documentada, es un apercibimiento garantizado.
 - **No comunicar por miedo a la confidencialidad** → el sujeto obligado tiene **inmunidad civil** por la comunicación al SEPBLAC (Art. 24). Comunicar es lo seguro.
-- **Tipping-off al cliente** — alertar al cliente de que estás examinando su caso es ilegal (Art. 24.1 + Art. 54 6AMLD). Las herramientas serias bloquean visibilidad para roles no autorizados durante el examen.
+- **Tipping-off al cliente** — alertar al cliente de que estás examinando su caso es ilegal (Art. 24.1 Ley 10/2010 + Art. 73 AMLR). Las herramientas serias bloquean visibilidad para roles no autorizados durante el examen.
 
 ## Tools que automatizan esto
 
-Las herramientas PBC/FT con motor de monitorización transaccional + gestión de casos cubren este flujo: [VeriSafe AML](https://www.verisafeaml.com) (rule engine + casos AML + investigation lockdown anti-tipping-off + pre-rellenado del F19-1), [ApreNet](https://www.aprenet.es) (Suite Discovery + Smartflow), [ComplyAdvantage](https://complyadvantage.com) (Investigation Hub).
+Las herramientas PBC/FT con motor de monitorización transaccional + gestión de casos cubren este flujo: [VeriSafe AML](https://www.verisafeaml.com) (rule engine + casos AML + investigation lockdown anti-tipping-off + pre-rellenado del F19-1).
 
 ## Ver también
 

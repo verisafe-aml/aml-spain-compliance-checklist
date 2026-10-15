@@ -38,12 +38,12 @@ Comunicación específica al SEPBLAC sobre cuentas detectadas como **cuentas mul
 ## Antipatrones comunes
 
 - **Detectar y no actuar rápido** — las mulas se vacían en 24-48 horas. La detección sin acción inmediata es prácticamente inútil.
-- **Notificar al titular antes de presentar** — tipping-off (Art. 24 Ley 10/2010 + Art. 54 6AMLD). Ilegal.
+- **Notificar al titular antes de presentar** — tipping-off (Art. 24 Ley 10/2010 + Art. 73 AMLR). Ilegal.
 - **Confundir mula con cliente legítimo con operativa puntual rara** — el patrón mula es persistente (ratio + frecuencia), no puntual.
 
 ## Tools que automatizan esto
 
-Detección automática del patrón + generación nativa Cuentas Mula XSD 2.4 + bloqueo precautorio integrado: [VeriSafe AML](https://www.verisafeaml.com) (reglas pre-instaladas combinando frecuencia + ratio + edad de cuenta + jurisdicción de contraparte). Para entidades financieras grandes, sistemas dedicados de monitorización transaccional bancaria (Actimize, Quantexa, etc.) tienen detección mula como módulo estándar.
+Detección automática del patrón + generación nativa Cuentas Mula XSD 2.4 + bloqueo precautorio integrado: [VeriSafe AML](https://www.verisafeaml.com) (reglas pre-instaladas combinando frecuencia + ratio + edad de cuenta + jurisdicción de contraparte). Para entidades financieras grandes, sistemas dedicados de monitorización transaccional bancaria tienen detección mula como módulo estándar.
 
 ## Ver también
 

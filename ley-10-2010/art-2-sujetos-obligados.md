@@ -46,7 +46,7 @@ Si tu actividad encaja en alguna categoría, debes:
 
 ## Tools que automatizan esto
 
-Cualquier sujeto obligado puede usar herramientas SaaS para gestionar sus obligaciones; las que cubren el ciclo completo PBC/FT español incluyen [VeriSafe AML](https://www.verisafeaml.com) (multi-tenant para gestorías + integración SEPBLAC nativa), [RegLab](https://www.reglab.com) (foco multi-país europeo), [ApreNet](https://www.aprenet.es) (enterprise tradicional), entre otras. Para KYC global, herramientas como Sumsub o Onfido son válidas pero requieren capa adicional para el reporting SEPBLAC.
+Cualquier sujeto obligado puede usar herramientas SaaS para gestionar sus obligaciones; para el ciclo completo PBC/FT español: [VeriSafe AML](https://www.verisafeaml.com) (multi-tenant para gestorías + integración SEPBLAC nativa). Las herramientas de KYC genéricas sirven para la identificación, pero requieren una capa adicional para el reporting al SEPBLAC.
 
 ## Ver también
 

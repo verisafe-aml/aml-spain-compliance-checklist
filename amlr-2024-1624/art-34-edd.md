@@ -18,8 +18,8 @@ Cuando el riesgo es alto (PEP, jurisdicción de alto riesgo, operación inusual,
 
 ## Cuándo aplicar EDD
 
-- Cliente o titular real es PEP (incluyendo cooling-off de 12 meses tras el cese — Art. 45(2)).
-- Operación con persona o jurisdicción de alto riesgo (FATF lista negra/gris, paraíso fiscal).
+- Cliente o titular real es PEP (incluido el ex-PEP: 2 años tras el cese en España, art. 14.9 Ley 10/2010; al menos 12 meses con el Art. 45(2) AMLR).
+- Operación con persona o jurisdicción de alto riesgo (FATF lista negra/gris, jurisdicción no cooperativa).
 - Cliente con perfil de riesgo "alto" o "muy alto" según tu calculadora.
 - Operación compleja o inusual sin propósito económico aparente.
 - Servicios de banca privada / wealth management con clientes high-net-worth.
